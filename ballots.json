@@ -414,7 +414,7 @@
             }
         ]
     }, 
-    "שז\"ר זלמן 39, תל אביב - יפו": {
+    "שז\"ר 39, תל אביב - יפו": {
         "status": "OK", 
         "results": [
             {
@@ -422,27 +422,27 @@
                     "location_type": "RANGE_INTERPOLATED", 
                     "bounds": {
                         "northeast": {
-                            "lat": 32.053743, 
-                            "lng": 34.8315767
+                            "lat": 32.039501, 
+                            "lng": 34.763769
                         }, 
                         "southwest": {
-                            "lat": 32.0537379, 
-                            "lng": 34.8315592
+                            "lat": 32.0394856, 
+                            "lng": 34.763766
                         }
                     }, 
                     "viewport": {
                         "northeast": {
-                            "lat": 32.0550894302915, 
-                            "lng": 34.8329169302915
+                            "lat": 32.0408422802915, 
+                            "lng": 34.7651164802915
                         }, 
                         "southwest": {
-                            "lat": 32.0523914697085, 
-                            "lng": 34.8302189697085
+                            "lat": 32.03814431970851, 
+                            "lng": 34.7624185197085
                         }
                     }, 
                     "location": {
-                        "lat": 32.0537379, 
-                        "lng": 34.8315767
+                        "lat": 32.0394856, 
+                        "lng": 34.763766
                     }
                 }, 
                 "address_components": [
@@ -454,19 +454,19 @@
                         "short_name": "39"
                     }, 
                     {
-                        "long_name": "Zalman Shazar", 
+                        "long_name": "Shazar", 
                         "types": [
                             "route"
                         ], 
-                        "short_name": "Zalman Shazar"
+                        "short_name": "Shazar"
                     }, 
                     {
-                        "long_name": "Ramat Gan", 
+                        "long_name": "Tel Aviv", 
                         "types": [
                             "locality", 
                             "political"
                         ], 
-                        "short_name": "Ramat Gan"
+                        "short_name": "Tel Aviv"
                     }, 
                     {
                         "long_name": "Israel", 
@@ -477,8 +477,7 @@
                         "short_name": "IL"
                     }
                 ], 
-                "partial_match": true, 
-                "formatted_address": "Zalman Shazar 39, Ramat Gan, Israel", 
+                "formatted_address": "Shazar 39, Tel Aviv, Israel", 
                 "types": [
                     "street_address"
                 ]
@@ -3142,7 +3141,7 @@
             }
         ]
     }, 
-    "התשעים ושלוש 2, תל אביב - יפו": {
+    "התשעים ושלוש 1, תל אביב - יפו": {
         "status": "OK", 
         "results": [
             {
@@ -3150,36 +3149,36 @@
                     "location_type": "RANGE_INTERPOLATED", 
                     "bounds": {
                         "northeast": {
-                            "lat": 32.0842037, 
-                            "lng": 34.87961689999999
+                            "lat": 32.0571191, 
+                            "lng": 34.7875477
                         }, 
                         "southwest": {
-                            "lat": 32.0841993, 
-                            "lng": 34.8795992
+                            "lat": 32.0571035, 
+                            "lng": 34.787547
                         }
                     }, 
                     "viewport": {
                         "northeast": {
-                            "lat": 32.0855504802915, 
-                            "lng": 34.88095703029149
+                            "lat": 32.0584602802915, 
+                            "lng": 34.7888963302915
                         }, 
                         "southwest": {
-                            "lat": 32.0828525197085, 
-                            "lng": 34.8782590697085
+                            "lat": 32.0557623197085, 
+                            "lng": 34.7861983697085
                         }
                     }, 
                     "location": {
-                        "lat": 32.0842037, 
-                        "lng": 34.8795992
+                        "lat": 32.0571191, 
+                        "lng": 34.7875477
                     }
                 }, 
                 "address_components": [
                     {
-                        "long_name": "2", 
+                        "long_name": "1", 
                         "types": [
                             "street_number"
                         ], 
-                        "short_name": "2"
+                        "short_name": "1"
                     }, 
                     {
                         "long_name": "HaTish'im Ve-Shalosh", 
@@ -3189,12 +3188,12 @@
                         "short_name": "HaTish'im Ve-Shalosh"
                     }, 
                     {
-                        "long_name": "Petah Tiqwa", 
+                        "long_name": "Tel Aviv", 
                         "types": [
                             "locality", 
                             "political"
                         ], 
-                        "short_name": "Petah Tiqwa"
+                        "short_name": "Tel Aviv"
                     }, 
                     {
                         "long_name": "Israel", 
@@ -3205,8 +3204,7 @@
                         "short_name": "IL"
                     }
                 ], 
-                "partial_match": true, 
-                "formatted_address": "HaTish'im Ve-Shalosh 2, Petah Tikva, Israel", 
+                "formatted_address": "HaTish'im Ve-Shalosh 1, Tel Aviv, Israel", 
                 "types": [
                     "street_address"
                 ]
