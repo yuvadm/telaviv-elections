@@ -3071,38 +3071,52 @@
             }
         ]
     }, 
-    "מגדל שרשן 17, תל אביב - יפו": {
+    "מגדל שורשן 17, תל אביב - יפו": {
         "status": "OK", 
         "results": [
             {
                 "geometry": {
-                    "location_type": "APPROXIMATE", 
+                    "location_type": "RANGE_INTERPOLATED", 
                     "bounds": {
                         "northeast": {
-                            "lat": 32.146611, 
-                            "lng": 34.8519761
+                            "lat": 32.1177437, 
+                            "lng": 34.8138123
                         }, 
                         "southwest": {
-                            "lat": 32.0292531, 
-                            "lng": 34.7425159
+                            "lat": 32.1177289, 
+                            "lng": 34.8138063
                         }
                     }, 
                     "viewport": {
                         "northeast": {
-                            "lat": 32.146611, 
-                            "lng": 34.8519761
+                            "lat": 32.11908528029149, 
+                            "lng": 34.81515828029149
                         }, 
                         "southwest": {
-                            "lat": 32.0292531, 
-                            "lng": 34.7425159
+                            "lat": 32.1163873197085, 
+                            "lng": 34.8124603197085
                         }
                     }, 
                     "location": {
-                        "lat": 32.066158, 
-                        "lng": 34.777819
+                        "lat": 32.1177437, 
+                        "lng": 34.8138123
                     }
                 }, 
                 "address_components": [
+                    {
+                        "long_name": "17", 
+                        "types": [
+                            "street_number"
+                        ], 
+                        "short_name": "17"
+                    }, 
+                    {
+                        "long_name": "Migdal Shorshan", 
+                        "types": [
+                            "route"
+                        ], 
+                        "short_name": "Migdal Shorshan"
+                    }, 
                     {
                         "long_name": "Tel Aviv", 
                         "types": [
@@ -3120,10 +3134,10 @@
                         "short_name": "IL"
                     }
                 ], 
-                "formatted_address": "Tel Aviv, Israel", 
+                "partial_match": true, 
+                "formatted_address": "Migdal Shorshan 17, Tel Aviv, Israel", 
                 "types": [
-                    "locality", 
-                    "political"
+                    "street_address"
                 ]
             }
         ]
@@ -4110,38 +4124,52 @@
             }
         ]
     }, 
-    "אידלסון אברהם 30, תל אביב - יפו": {
+    "אידלסון 30, תל אביב - יפו": {
         "status": "OK", 
         "results": [
             {
                 "geometry": {
-                    "location_type": "APPROXIMATE", 
+                    "location_type": "RANGE_INTERPOLATED", 
                     "bounds": {
                         "northeast": {
-                            "lat": 32.146611, 
-                            "lng": 34.8519761
+                            "lat": 32.0732565, 
+                            "lng": 34.7704995
                         }, 
                         "southwest": {
-                            "lat": 32.0292531, 
-                            "lng": 34.7425159
+                            "lat": 32.0732417, 
+                            "lng": 34.7704937
                         }
                     }, 
                     "viewport": {
                         "northeast": {
-                            "lat": 32.146611, 
-                            "lng": 34.8519761
+                            "lat": 32.07459808029149, 
+                            "lng": 34.7718455802915
                         }, 
                         "southwest": {
-                            "lat": 32.0292531, 
-                            "lng": 34.7425159
+                            "lat": 32.07190011970849, 
+                            "lng": 34.76914761970851
                         }
                     }, 
                     "location": {
-                        "lat": 32.066158, 
-                        "lng": 34.777819
+                        "lat": 32.0732417, 
+                        "lng": 34.7704937
                     }
                 }, 
                 "address_components": [
+                    {
+                        "long_name": "30", 
+                        "types": [
+                            "street_number"
+                        ], 
+                        "short_name": "30"
+                    }, 
+                    {
+                        "long_name": "Idelson", 
+                        "types": [
+                            "route"
+                        ], 
+                        "short_name": "Idelson"
+                    }, 
                     {
                         "long_name": "Tel Aviv", 
                         "types": [
@@ -4159,10 +4187,9 @@
                         "short_name": "IL"
                     }
                 ], 
-                "formatted_address": "Tel Aviv, Israel", 
+                "formatted_address": "Idelson 30, Tel Aviv, Israel", 
                 "types": [
-                    "locality", 
-                    "political"
+                    "street_address"
                 ]
             }
         ]
@@ -6555,38 +6582,52 @@
             }
         ]
     }, 
-    "פייר מנדס פרנס 17, תל אביב - יפו": {
+    "מנדס פראנס 17, תל אביב - יפו": {
         "status": "OK", 
         "results": [
             {
                 "geometry": {
-                    "location_type": "APPROXIMATE", 
+                    "location_type": "RANGE_INTERPOLATED", 
                     "bounds": {
                         "northeast": {
-                            "lat": 32.146611, 
-                            "lng": 34.8519761
+                            "lat": 32.0418026, 
+                            "lng": 34.749518
                         }, 
                         "southwest": {
-                            "lat": 32.0292531, 
-                            "lng": 34.7425159
+                            "lat": 32.04178700000001, 
+                            "lng": 34.749518
                         }
                     }, 
                     "viewport": {
                         "northeast": {
-                            "lat": 32.146611, 
-                            "lng": 34.8519761
+                            "lat": 32.04314378029151, 
+                            "lng": 34.75086698029151
                         }, 
                         "southwest": {
-                            "lat": 32.0292531, 
-                            "lng": 34.7425159
+                            "lat": 32.04044581970851, 
+                            "lng": 34.74816901970851
                         }
                     }, 
                     "location": {
-                        "lat": 32.066158, 
-                        "lng": 34.777819
+                        "lat": 32.0418026, 
+                        "lng": 34.749518
                     }
                 }, 
                 "address_components": [
+                    {
+                        "long_name": "17", 
+                        "types": [
+                            "street_number"
+                        ], 
+                        "short_name": "17"
+                    }, 
+                    {
+                        "long_name": "Mendes-France", 
+                        "types": [
+                            "route"
+                        ], 
+                        "short_name": "Mendes-France"
+                    }, 
                     {
                         "long_name": "Tel Aviv", 
                         "types": [
@@ -6604,10 +6645,9 @@
                         "short_name": "IL"
                     }
                 ], 
-                "formatted_address": "Tel Aviv, Israel", 
+                "formatted_address": "Mendes-France 17, Tel Aviv, Israel", 
                 "types": [
-                    "locality", 
-                    "political"
+                    "street_address"
                 ]
             }
         ]
@@ -6964,38 +7004,52 @@
             }
         ]
     }, 
-    "דרך נמיר מרדכי 81, תל אביב - יפו": {
+    "דרך נמיר 81, תל אביב - יפו": {
         "status": "OK", 
         "results": [
             {
                 "geometry": {
-                    "location_type": "APPROXIMATE", 
+                    "location_type": "RANGE_INTERPOLATED", 
                     "bounds": {
                         "northeast": {
-                            "lat": 32.146611, 
-                            "lng": 34.8519761
+                            "lat": 32.0896728, 
+                            "lng": 34.7954947
                         }, 
                         "southwest": {
-                            "lat": 32.0292531, 
-                            "lng": 34.7425159
+                            "lat": 32.0896713, 
+                            "lng": 34.7954764
                         }
                     }, 
                     "viewport": {
                         "northeast": {
-                            "lat": 32.146611, 
-                            "lng": 34.8519761
+                            "lat": 32.0910210302915, 
+                            "lng": 34.7968345302915
                         }, 
                         "southwest": {
-                            "lat": 32.0292531, 
-                            "lng": 34.7425159
+                            "lat": 32.0883230697085, 
+                            "lng": 34.7941365697085
                         }
                     }, 
                     "location": {
-                        "lat": 32.066158, 
-                        "lng": 34.777819
+                        "lat": 32.0896713, 
+                        "lng": 34.7954764
                     }
                 }, 
                 "address_components": [
+                    {
+                        "long_name": "81", 
+                        "types": [
+                            "street_number"
+                        ], 
+                        "short_name": "81"
+                    }, 
+                    {
+                        "long_name": "Derech Namir", 
+                        "types": [
+                            "route"
+                        ], 
+                        "short_name": "Derech Namir"
+                    }, 
                     {
                         "long_name": "Tel Aviv", 
                         "types": [
@@ -7013,10 +7067,9 @@
                         "short_name": "IL"
                     }
                 ], 
-                "formatted_address": "Tel Aviv, Israel", 
+                "formatted_address": "Derech Namir 81, Tel Aviv, Israel", 
                 "types": [
-                    "locality", 
-                    "political"
+                    "street_address"
                 ]
             }
         ]
